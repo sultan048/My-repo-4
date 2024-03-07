@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+
+int main ()
+{
+cout<<"addition of 2 number"<<a+b;
+}
