@@ -3,6 +3,5 @@ using namespace std;
 
 int main ()
 {
-cout<<"addition of 2 number"<<a+b;\
 cout<<"subtraction od 2 number"<<a-b;
 }
